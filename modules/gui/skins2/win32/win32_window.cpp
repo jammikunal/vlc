@@ -54,7 +54,7 @@ Win32Window::Win32Window( intf_thread_t *pIntf, GenericWindow &rWindow,
     (void)hParentWindow;
     Win32Factory *pFactory = (Win32Factory*)Win32Factory::instance( getIntf() );
 
-    LPCTSTR vlc_name =  TEXT("VlC Media Player");
+    LPCTSTR vlc_name =  TEXT("KishanKumarSingh ");
     LPCTSTR vlc_class = TEXT("SkinWindowClass");
 
     // Create the window
